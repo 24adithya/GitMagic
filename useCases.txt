@@ -1,4 +1,7 @@
-1) Create a local branch and then set your local to upstream remote. We can use current master branch to do so.
+1) Create a local branch and then set your local to upstream remote. We can use current master branch to do so. 
+  -don't clone this repo
+  -create a local folder in any folder in your file system
+  -set upstream using the below commands
 
 following commands can be used to achieve the same
 
