@@ -1,0 +1,8 @@
+1) Create a local branch and then set your local to upstream remote. We can use current master branch to do so.
+
+following commands can be used to achieve the same
+
+#git branch -m main master - use only in case of merge of your current main branch with master
+git fetch origin
+git branch -u origin/master master
+git remote set-head origin -a
